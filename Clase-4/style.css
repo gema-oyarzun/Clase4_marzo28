@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet");
+
+body {
+  padding-top: 3.5rem;
+}
+
+.bg-pink{
+	background: #f48fb1;
+}
+
+.bg-pink:hover{
+	background: #e91e63;
+}
+
+body{
+	background: #f8bbd0;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-weight: 400;
+}
+
+div[class^="col"] {
+	padding-top: 0rem;
+}
+img{
+	background:#d50000;
+	padding:1rem;
+	margin:1rem 0 2rem 0;
+}
+img:hover{
+	background:#e91e63;
+}
+
+p{
+	padding-top: 3rem
+}
+
+span{
+	font-weight: 400;
+}
